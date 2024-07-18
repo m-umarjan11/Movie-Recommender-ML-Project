@@ -1,6 +1,5 @@
 # Movie Recommendation System using TMDb Dataset
 
-![Project Image](C:\Users\Awais Munir\Desktop\Screenshot 2024-07-18 042539.png)
 
 This repository implements a movie recommendation system using machine learning techniques and the TMDb (The Movie Database) dataset sourced from Kaggle.
 
